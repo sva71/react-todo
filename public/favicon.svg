@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Clipboard body -->
+  <rect x="8" y="6" width="32" height="38" rx="4" fill="#1976d2"/>
+  <!-- Clipboard clip -->
+  <rect x="17" y="2" width="14" height="8" rx="3" fill="#1565c0"/>
+  <!-- Paper -->
+  <rect x="12" y="14" width="24" height="26" rx="2" fill="#fff"/>
+  <!-- List lines -->
+  <rect x="22" y="19" width="10" height="2" rx="1" fill="#90caf9"/>
+  <rect x="22" y="25" width="10" height="2" rx="1" fill="#90caf9"/>
+  <rect x="22" y="31" width="10" height="2" rx="1" fill="#90caf9"/>
+  <!-- Checkboxes -->
+  <rect x="15" y="18" width="4" height="4" rx="1" fill="#4caf50"/>
+  <path d="M16 20.2 L17 21.2 L18.5 19.2" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="15" y="24" width="4" height="4" rx="1" fill="#4caf50"/>
+  <path d="M16 26.2 L17 27.2 L18.5 25.2" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="15" y="30" width="4" height="4" rx="1" stroke="#bdbdbd" stroke-width="1" fill="none"/>
+</svg>
